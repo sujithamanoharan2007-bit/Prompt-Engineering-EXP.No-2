@@ -21,5 +21,10 @@ Your goal is to determine which combination of prompting technique + platform pr
 5.User experience
 
 OUTPUT:
+[Elaborated_Blockchain_Summarization_Report.pdf](https://github.com/user-attachments/files/27763932/Elaborated_Blockchain_Summarization_Report.pdf)
 
 RESULT:
+The experiment showed that different prompting techniques significantly improve the quality and effectiveness of AI-generated text summarization across platforms like OpenAI ChatGPT, Google Gemini, Anthropic Claude, and Microsoft Copilot
+.
+
+ 
